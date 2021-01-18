@@ -7,15 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kampinttro", "Kampinttro\Ka
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{3423AFB3-8C91-4553-9655-9BA7173F69B6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classintro", "Classintro\Classintro.csproj", "{ABC77457-14B7-4980-96F4-AC222C495958}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{148265DB-C3FD-4891-9DEE-3FB0BF5172A4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{F0045F75-2177-4324-BF86-E03FEA7AB869}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeRefaransTıpler", "DegerVeRefaransTıpler\DegerVeRefaransTıpler.csproj", "{405CF17A-C4FA-43E9-8239-27AA0D8B557D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{DC804757-722A-469D-AECB-53EC0F5F6792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{DC804757-722A-469D-AECB-53EC0F5F6792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +29,6 @@ Global
 		{3423AFB3-8C91-4553-9655-9BA7173F69B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3423AFB3-8C91-4553-9655-9BA7173F69B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3423AFB3-8C91-4553-9655-9BA7173F69B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABC77457-14B7-4980-96F4-AC222C495958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABC77457-14B7-4980-96F4-AC222C495958}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABC77457-14B7-4980-96F4-AC222C495958}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABC77457-14B7-4980-96F4-AC222C495958}.Release|Any CPU.Build.0 = Release|Any CPU
 		{148265DB-C3FD-4891-9DEE-3FB0BF5172A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{148265DB-C3FD-4891-9DEE-3FB0BF5172A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{148265DB-C3FD-4891-9DEE-3FB0BF5172A4}.Release|Any CPU.ActiveCfg = Release|Any CPU

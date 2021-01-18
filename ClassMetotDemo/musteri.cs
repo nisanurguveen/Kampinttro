@@ -4,10 +4,15 @@ using System.Text;
 
 namespace ClassMetotDemo
 {
-    class musteri
+    class Musteri
     {
 
-        public int M
+        public string MusteriAdi { get; set; }
+        public string MusteriSoyadi { get; set; }
+        public int MusteriTelefon { get; set; }
+        public string MusteriMail { get; set; }
+        public int MusteriSifre { get; set; }
+        
 
     }
 }
