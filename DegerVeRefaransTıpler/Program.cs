@@ -12,7 +12,7 @@ namespace DegerVeRefaransTıpler
             int sayi1 = 30;
             sayi1 = sayi2;
             sayi2 = 65;
-            //sayi1??
+            //sayi1?? 30 dur 
         }
     }
 }
